@@ -1,0 +1,2 @@
+rootProject.name = "GermesMessenger"
+include ':app'

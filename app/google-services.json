@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576045418585",
+    "project_id": "germesmessenger-87658",
+    "storage_bucket": "germesmessenger-87658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576045418585:android:6b366e1151efb61098c948",
+        "android_client_info": {
+          "package_name": "com.example.germesmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576045418585-btha4hu0v7rds1o852ftpr839o2pbeui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.germesmessenger",
+            "certificate_hash": "0723e9a5bdfa1b9b1bb2f0655985463c8912bc6e"
+          }
+        },
+        {
+          "client_id": "576045418585-aeoong13ojgn7fpgujpk18eanv2jd4cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyButKBdoJpTt8wZ0o5Ime1Pzc7BgE2itqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576045418585-aeoong13ojgn7fpgujpk18eanv2jd4cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
